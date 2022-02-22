@@ -2,31 +2,31 @@
     "registro": [
         {
             "id": 1,
-            "Nombre": "Brayan Venegas",
-            "Edad": "22",
-            "Correo": "brayanvenegas24@gmail.com",
-            "Numero": "63467526" 
+            "nombre": "Brayan Venegas",
+            "edad": "22",
+            "correo": "brayanvenegas24@gmail.com",
+            "numero": "63467526" 
         },
         {
             "id": 2,
-            "Nombre": "Kevin López",
-            "Edad": "23",
-            "Correo": "brayanvenegas24@gmail.com",
-            "Numero": "70488299" 
+            "nombre": "Kevin López",
+            "edad": "23",
+            "correo": "brayanvenegas24@gmail.com",
+            "numero": "70488299" 
         },
         {
             "id": 3,
-            "Nombre": "Aáron Cortes",
-            "Edad": "22",
-            "Correo": "aaroncortes125@gmail.com",
-            "Numero": "861085314" 
+            "nombre": "Aáron Cortes",
+            "edad": "22",
+            "correo": "aaroncortes125@gmail.com",
+            "numero": "861085314" 
         },
         {
             "id": 4,
-            "Nombre": "Adriel Sequeira",
-            "Edad": "23",
-            "Correo": "adrielsequeiratella@gmail.com",
-            "Numero": "83568826" 
+            "nombre": "Adriel Sequeira",
+            "edad": "23",
+            "correo": "adrielsequeiratella@gmail.com",
+            "numero": "83568826" 
         }
 
     ],
