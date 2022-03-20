@@ -5,7 +5,8 @@
             "nombre": "Brayan Venegas",
             "edad": "22",
             "correo": "brayanvenegas24@gmail.com",
-            "numero": "63467526" 
+            "numero": "63467526"
+            "opinion": "Es un gran desarrollador, siempre fue responsable en cada uno de los trabajos que realizó conmigo. Siempre busca mejorar para avanzar como desarrollador."
         },
         {
             "id": 2,
@@ -13,20 +14,23 @@
             "edad": "23",
             "correo": "kevjob826@gmail.com",
             "numero": "70488299" 
+            "opinion": "Lo considero una persona muy dedicada en lo que hace, en cada de unos de sus trabajos trata de implementar las mejores ideas para tener un producto estable."
         },
         {
             "id": 3,
             "nombre": "Aáron Cortes",
             "edad": "22",
             "correo": "aaroncortes125@gmail.com",
-            "numero": "861085314" 
+            "numero": "861085314"
+            "opinion": "Lo recomiendo con total confiaza, se que tiene grandes capacidades para ir mejorando día con día, posee gran capacidad para comprender los requisitos de los proyectos."
         },
         {
             "id": 4,
             "nombre": "Adriel Sequeira",
             "edad": "23",
             "correo": "adrielsequeiratella@gmail.com",
-            "numero": "83568826" 
+            "numero": "83568826"
+            "opinion": "Él fue compañero mío en la universidad y realizamos varios proyectos juntos. Puedo asegurar que es una persona muy responsable y capacitada para emplear todo su conocimiento en los proyectos."
         }
 
     ],
